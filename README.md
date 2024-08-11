@@ -10,6 +10,11 @@ The classification algorithms used in the project are: K-Nearest Neighbors (KNN)
 
 By using parameter tuning of the generated machine learning models and cross-validation, it is possible to achieve a prediction accuracy of approximately 73-84% on the test set.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3f6397d4-0022-4de8-8831-afc3238c9f75" >
-</p>
+| Algorithm      | Accuracy | Balanced Accuracy | Sensitivity | Specificity |
+|----------------|----------|-------------------|-------------|-------------|
+| KNN            | 0.8133   | 0.8461            | 0.9630      | 0.7292      |
+| SVM            | 0.84     | 0.8377            | 0.8182      | 0.8571      |
+| Decision trees | 0.7333   | 0.7329            | 0.7027      | 0.7632      |
+| Random forest  | 0.8133   | 0.8129            | 0.7838      | 0.8421      |
+
+<img src="https://github.com/user-attachments/assets/3f6397d4-0022-4de8-8831-afc3238c9f75" >
