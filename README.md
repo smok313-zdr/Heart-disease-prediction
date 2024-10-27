@@ -18,3 +18,7 @@ By using parameter tuning of the generated machine learning models and cross-val
 | Random forest  | 0.8133   | 0.8129            | 0.7838      | 0.8421      |
 
 <img src="https://github.com/user-attachments/assets/3f6397d4-0022-4de8-8831-afc3238c9f75" >
+
+### Further notices
+
+The project presents the following approach: removing missing values and normalizing the data before splitting the set into training and test. In order to search for a more accurate model, it would be necessary to first divide the set into training and test, then handle the missing values, for example, through imuputation (using the mean or mode). It is permissible to remove columns that contribute nothing and contain about 60%+ missing data. In a further step, rescaling of variables should be performed on the training sample, and then with identical parameters applied to the test sample. 
