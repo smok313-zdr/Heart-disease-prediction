@@ -1,7 +1,7 @@
 # Heart-disease-prediction
 
 If you use this project as support to your research consider citing:
-Zdrojewski, K. (2024). Analiza i porównanie wybranych algorytmów klasyfikacji w kontekście przewidywania chorób serca. Przegląd Teleinformatyczny, 12. DOI: 10.5604/01.3001.0055.2028.
+`Zdrojewski, K. (2024). Analiza i porównanie wybranych algorytmów klasyfikacji w kontekście przewidywania chorób serca. Przegląd Teleinformatyczny, 12. DOI: 10.5604/01.3001.0055.2028.`
 
 ### Background
 
