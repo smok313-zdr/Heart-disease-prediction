@@ -1,5 +1,8 @@
 # Heart-disease-prediction
 
+If you use this project as support to your research consider citing:
+Zdrojewski, K. (2024). Analiza i porównanie wybranych algorytmów klasyfikacji w kontekście przewidywania chorób serca. Przegląd Teleinformatyczny, 12. DOI: 10.5604/01.3001.0055.2028.
+
 ### Background
 
 The goal of the project is to present selected classification algorithms that represent supervised machine learning for heart disease prediction. Classification is one of the most common tasks in machine learning. It involves assigning objects to specific classes or categories based on their features or attributes. In this case, we assign patients to the class "HeartDisease", which is a discrete variable that takes two values: TURE and FALSE. 
